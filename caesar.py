@@ -1,4 +1,4 @@
-def ceaser_code()
+def ceaser_code():
     alphabet = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'
     encrypt = input('Enter message: ')
     key = int(input('Enter shift from 1 to 25: '))
